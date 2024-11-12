@@ -1,4 +1,6 @@
-# anika_barop_tbii_exam
+# QR Code Application
+
+This is a Leuphana exam project by anik_a <3
 
 
 
